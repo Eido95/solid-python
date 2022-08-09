@@ -10,4 +10,3 @@
 # Details should depend upon abstractions
 
 # (2000) Depend upon Abstractions. Do not depend upon concretions.
-
